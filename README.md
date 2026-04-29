@@ -22,7 +22,7 @@ I enjoy learning new technologies and understanding how things work under the ho
 
 ## 🛠️ Technologies I'm learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,git" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
@@ -43,7 +43,7 @@ I'm looking for opportunities to learn, collaborate on small projects, and impro
 
 ## 📫 Contact
 - GitHub: https://github.com/rjnlopes03  
-- LinkedIn: https://linkedin.com/in/rjnlopes03  
+- LinkedIn: https://www.linkedin.com/in/rafalopes3/ 
 
 ---
 
