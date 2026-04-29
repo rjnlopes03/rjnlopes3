@@ -13,10 +13,9 @@ I enjoy learning new technologies and understanding how things work under the ho
 ---
 
 ## 📚 Currently focused on
-- Programming fundamentals  
-- Web development  
-- Software engineering concepts  
-- Version control (Git & GitHub)  
+
+- Software engineering student  
+ 
 
 ---
 
