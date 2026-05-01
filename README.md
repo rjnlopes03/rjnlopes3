@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @rjnlopes03
+# 👋 Hi, I’m Rafael Lopes
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Learning+and+building+projects;Always+improving+🚀" />
